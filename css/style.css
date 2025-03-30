@@ -17,7 +17,7 @@ object-fit: cover;
 }
 
 .internallink:hover{
-   opacity: 70%;
+   opacity: 65%;
 }
 
 .externallink{
@@ -28,6 +28,16 @@ object-fit: cover;
 
 .externallink:hover{
     opacity: 60%;
+}
+
+.externallink2{
+    box-shadow: 0px 0px 3px 3px rgb(255, 255, 255);
+    opacity: 0%;
+    border-radius: 50%;
+}
+
+.externallink2:hover{
+    opacity: 35%;
 }
 
 #holink1{
