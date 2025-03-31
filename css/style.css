@@ -34,12 +34,12 @@ object-fit: cover;
     box-shadow: 0px 0px 3px 3px rgb(255, 255, 255);
     opacity: 0%;
     border-radius: 50%;
-}
+    }
 
-.externallink2:hover{
+    .externallink2:hover{
     opacity: 35%;
-}
-
+    }
+    
 #holink1{
     width: 10%;
     height: 12%;
